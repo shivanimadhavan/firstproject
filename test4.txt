@@ -1,4 +1,2 @@
 pulling file functionality
-success
-failure
 both succ and fail
